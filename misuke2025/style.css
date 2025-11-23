@@ -1,0 +1,13 @@
+* {
+  font-family: "Hina Mincho", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h1, h2 {
+  font-family: "Hina Mincho", serif!important;
+}
+
+.uk-card > img {
+    width: 500px;
+}
